@@ -1,0 +1,43 @@
+
+body {
+    padding-top: 56px; 
+}
+
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+    margin: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+    height: 800px;
+    width: 300px;
+}
+
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+    overflow: auto;
+}
+#actor{
+    height: auto;
+    width: auto;
+}
+
+.cont {
+    display: flex; 
+    justify-content: space-between;
+    padding: 20px; 
+    margin: 20px; 
+}
+.contL {
+    width: 15%; 
+    margin-right: 20px;
+    padding: 20px; 
+}
+.contR {
+    width: 85%; 
+    padding: 20px; 
+}
